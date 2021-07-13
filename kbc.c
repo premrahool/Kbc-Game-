@@ -6,7 +6,7 @@ int main()
 	printf("---------------Welcome to KBC Quiz Test---------------\n");
 	int i,n;
 	int result=0,ch,c=0;
-printf("press 1 for starting the quiz=");
+printf("press 1 for starting the quiz=      ,bkgjfghlmkbkhcdhgjvhljkhfygolhgkfjhl,bmbvb");
 scanf("%d",&i);
 printf("\n\n");
 
